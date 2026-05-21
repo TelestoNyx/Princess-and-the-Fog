@@ -1,0 +1,218 @@
+Survivor Perks: 
+
+General Bans: 
+Individual Perks:
+
+- A Place For Us
+- Ace in the Hole
+- Apocalyptic Ingenuity
+- Appraisal
+- Babysitter
+- Background Player
+- Bada bada boom
+- Bardic Inspiration
+- Better Together
+- Blood Pact
+- Blood Rush
+- Boil Over
+- Boon: Circle of Healing
+- Boon: Dark Theory
+- Boon: Exponential
+- Boon: Illumination
+- Boon: Shadow Step
+- Borrowed Time
+- Bound by Obsession
+- Breakdown
+- Breakout
+- Built to last
+- Buckle Up
+- Camaraderie
+- Change of Plan
+- Clairvoyance
+- Come and Get Me!
+- Conviction
+- Corrective Action
+- Counterforce 
+- Dark Sense
+- Deadline
+- Distortion
+- Duty of Care
+- Down to the last
+- Do No Harm
+- Extrasensory Perception
+- Exultation
+- Eyes of Belmont
+- Finesse 
+- Five moves ahead
+- Flowstate 
+- Fogwise
+- Ghost notes
+- Hardened
+- Hope
+- Hyperfocus
+- Inner Focus
+- Invocation: Treacherous Crows
+- Invocation: Weaving Spiders
+- Kindred
+- Last Stand
+- Left behind
+- Low Profile
+- Made for This
+- Mirrored Illusion
+- Moment of Glory
+- No one left behind
+- Off the Record
+- One-Two-Three-Four!
+- Overzealous
+- Pharmacy
+- Plunderer's Instinct
+- Potential Energy
+- Power Struggle
+- Premonition
+- Prove Thyself
+- Rapid Response
+- Reactive healing
+- Reassurance
+- Road life 
+- Saboteur
+- Scavenger
+- Scene Partner
+- Self Care
+- Self-Preservation
+- Shoulder the Burden
+- Slippery Meat
+- Soul Guard
+- Specialist
+- Still Sight
+- Street wise
+- Teamwork: Collective Stealth
+- Teamwork: Full Circuit
+- Teamwork: Power of Two
+- Teamwork: Soft-Spoken
+- Teamwork: Throw Down
+- Teamwork: Toughen Up
+- Technician 
+- Troubleshooter
+- Up the Ante
+- We See You
+- Wicked
+- Wiretap
+
+Combo Bans:
+- Overcome + Lucky break
+- Quick and Quiet + Urban Evasion
+- Lucky break + Iron Will
+- Unbreakable + Will to Live
+- Deliverance + Will to Live
+
+
+
+
+
+
+
+
+D-Tier Bans: 
+Individual Perks:
+
+- Adrenaline
+- Autodidact
+- Blast Mine
+- Champion of Light
+- Chemical Trap
+- Dead Hard
+- Deliverance
+- Desperate Measures
+- Empathic Connection
+- Fast Track
+- For the People
+- Leader
+- Lithe
+- Plot Twist
+- Resurgence
+- Second Wind
+- Solidarity
+- Sprint Burst
+- Stake Out
+- Strength in Shadows
+- Unbreakable
+- Vigil
+- Wake Up!
+- We'll Make It
+- Will to Live/Decisive Strike
+
+
+
+
+
+C-Tier Bans: 
+Individual Perks:
+
+
+- Adrenaline
+- Autodidact
+- Blast Mine
+- Champion of Light
+- Chemical Trap
+- Dead Hard
+- Deliverance
+- Desperate Measures
+- Fast Track
+- For the People
+- Leader
+- Lithe
+- Plot Twist
+- Resurgence
+- Second Wind
+- Solidarity
+- Sprint Burst
+- Stake Out
+- Strength in Shadows
+- Unbreakable
+- Vigil
+- Wake Up!
+- We'll Make It
+- Will to Live/Decisive Strike
+
+
+
+
+B-Tier Bans: 
+Individual Perks:
+
+- Autodidact
+- Champion of Light
+- Chemical Trap
+- Dead Hard
+- Deliverance
+- For the People
+- Leader
+- Plot Twist
+- Resurgence
+- Second Wind
+- Solidarity
+- Unbreakable
+- Vigil
+- Wake Up!
+- Will to Live/Decisive Strike
+
+
+
+
+A-Tier Bans: 
+Individual Perks:
+
+- Autodidact
+- Deliverance
+- Leader
+- Plot Twist
+- Resurgence
+- Vigil
+- Wake Up!
+
+
+
+S-Tier Bans: 
+Individual Perks:
+
+None
