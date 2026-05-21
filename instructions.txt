@@ -1,0 +1,16 @@
+Killer perk tier balancing 
+General -> D -> C -> B -> A -> S
+
+Survivor perk tier balancing 
+General -> S -> A -> B -> C -> D
+
+Perk tier numbers
+
+General: 0
+D: 1
+C: 2
+B: 3
+A: 4
+S: 5
+
+Perks are numbered by which they are added btw. Makes it kind of a pain but yk
